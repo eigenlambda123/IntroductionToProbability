@@ -24,3 +24,7 @@ This repository contains Python implementations of examples and exercises from *
 
 # Book Used Link:
 file:///D:/Math%20Books/Introduction%20to%20Probability-Joseph%20K.%20Blitzstein,%20Jessica%20Hwang.pdf
+
+# Important:
+- This repo is Inspired by this: 'https://github.com/buruzaemon/IntroductionToProbabilityPy.git' and was made for my own understanding
+
